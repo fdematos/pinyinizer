@@ -12,3 +12,21 @@ The four tones of Chinese are commonly represented by the numbers 1-4. This modu
 | ma4     | mà             | falling     |
 | ma      | ma             | neutral     |
 
+## Installation
+
+```yaml
+dependencies:
+  pinyinizer: 1.x #latest version
+```
+
+```dart
+import 'package:pinyinizer/Pinyinizer.dart';
+```
+
+## Usage
+
+```dart
+var pinyinizer = Pinyinizer();
+pinyinizer.pinyinize("xie3 dian3er shen2me ba")
+// return xiě diǎner shénme ba
+```
