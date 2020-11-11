@@ -1,8 +1,8 @@
 
 
 name: pinyinizer
-description: Chinese character conversion pinyin library.Accurate and complete Chinese character dictionary.Fast conversion.
-version: 1.0.0
+description: Transmform a string with numerical tone to a string with proper tone diacritics.
+version: 1.0.2
 homepage: https://github.com/fdematos/pinyinizer
 
 environment:

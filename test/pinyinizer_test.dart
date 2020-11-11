@@ -1,4 +1,3 @@
-// This is a basic Flutter widget test.
 import "package:test/test.dart";
 import 'package:pinyinizer/Pinyinizer.dart';
 
