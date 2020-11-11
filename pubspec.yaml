@@ -3,7 +3,6 @@
 name: pinyinizer
 description: Chinese character conversion pinyin library.Accurate and complete Chinese character dictionary.Fast conversion.
 version: 1.0.0
-author: fdematos
 homepage: https://github.com/fdematos/pinyinizer
 
 environment:
